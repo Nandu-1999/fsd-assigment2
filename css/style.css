@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#myG{
+    margin: 25px
+}
+body{
+    background-size: cover;
+}
+.container{
+    margin-top: 75%;
+    margin-left: 20%;
+}
+.p-box{
+    border: 10px solid rgb(58, 208, 228);
+    width: 32%;
+    float: left;
+    margin-left: 10px;
+    height: 38em;
+    padding: 10px;
+    background-color:transparent;
+}
+.p-box h3{
+    text-align: center;
+    text-decoration: underline;
+    color:yellowgreen;
+}
+.p-box p{
+    line-height: 1.30em;
+    text-align: justify;
+    color: white;
+}
+.p-box a{
+    text-decoration: none;
+    color: red;
+}
+.img{
+    background-size: cover;
+}
+.img-thumbnail{
+    padding:5px;
+    width: 95%;
+    height: 15em;
+}
+footer{
+    background-color: black;
+    color: honeydew;
+    height:3.00em;
+    margin-top: 70%;
+}
+footer h4{
+    text-align: center;;
+}

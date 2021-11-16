@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-size:cover;
+    width:1600px;
+    height:1200px
+}
+footer{
+    background-color: black;
+    color: honeydew;
+    height:3.00em;
+    margin-top: 70%;
+}
+footer h4{
+    text-align: center;
+}
+.dropdown{
+    margin-left: 25%;
+    margin-right: 25%;
+}
